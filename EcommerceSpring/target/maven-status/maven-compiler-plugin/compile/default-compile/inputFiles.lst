@@ -1,1 +1,10 @@
-/Users/ayanpal/Documents/ws/JAVA/EcommerceSpring/src/main/java/com/code/EcommerceSpring/EcommerceSpringApplication.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\configuration\RetrofitConfig.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\controllers\CategoryController.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\dtos\CategoryDTO.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\dtos\FakeStoreCategoryResponseDTO.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\EcommerceSpring\EcommerceSpringApplication.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\gateway\apis\IFakeStoreCategoryApi.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\gateway\FakeStoreCategoryGateway.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\gateway\ICategoryGateway.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\services\FakeStoreCategoryService.java
+C:\Users\WK929BY\OneDrive - EY\Desktop\WS-DVC\EcommerceSpring\EcommerceSpring\src\main\java\com\code\services\ICategoryService.java

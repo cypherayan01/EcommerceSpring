@@ -1,1 +1,11 @@
-com/code/EcommerceSpring/EcommerceSpringApplication.class
+com\code\dtos\CategoryDTO$CategoryDTOBuilder.class
+com\code\configuration\RetrofitConfig.class
+com\code\gateway\FakeStoreCategoryGateway.class
+com\code\gateway\ICategoryGateway.class
+com\code\services\FakeStoreCategoryService.class
+com\code\controllers\CategoryController.class
+com\code\dtos\CategoryDTO.class
+com\code\EcommerceSpring\EcommerceSpringApplication.class
+com\code\gateway\apis\IFakeStoreCategoryApi.class
+com\code\services\ICategoryService.class
+com\code\dtos\FakeStoreCategoryResponseDTO.class
